@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jarno jarno-bertramo</h1>
-<h3 align="center">A passionate frontend developer from Finland</h3>
+<h3 align="center">Passionate about technology</h3>
 
 - 🔭 I recently worked on a fansite [One Direction Fansite](file:///C:/Users/jarno/Documents/TroncCommun/Fansite%20OneDirection/FINAL/index.html)
 
