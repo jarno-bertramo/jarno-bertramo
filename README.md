@@ -1,3 +1,5 @@
+![Bannière](https://thumbs.dreamstime.com/b/moins-de-compilation-codage-du-langage-programmation-informatique-pour-la-technologie-site-web-fond-210695796.jpg)
+
 <h1 align="center">Hi 👋, I'm Jarno jarno-bertramo</h1>
 <h3 align="center">Passionate about technology</h3>
 
