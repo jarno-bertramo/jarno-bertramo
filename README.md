@@ -1,6 +1,6 @@
 ![Bannière](https://thumbs.dreamstime.com/b/moins-de-compilation-codage-du-langage-programmation-informatique-pour-la-technologie-site-web-fond-210695796.jpg)
 
-<h1 align="center">Hi 👋, I'm Jarno </h1>
+<h1 align="center">Hi 👋, I'm Bertramo Jarno </h1>
 <h3 align="center">Passionate about technology</h3>
 
 - 🔭 I recently worked on a **One Direction Fansite**
