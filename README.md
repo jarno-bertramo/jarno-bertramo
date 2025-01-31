@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Bertramo Jarno </h1>
 <h3 align="center">Passionate about technology</h3>
 
-- 🔭 I recently worked on a **One Direction Fansite**
+- 🔭 I recently worked on network projects like **Cisco and through virtual machines**
 
 - 📫 How to reach me **jarno.bertramo@laplateforme.io**
 
